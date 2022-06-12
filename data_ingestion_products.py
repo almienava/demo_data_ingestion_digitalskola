@@ -13,5 +13,5 @@ sql = 'COPY (select * from products) TO STDOUT WITH CSV HEADER'
 csv_file = open('syarif_products.csv','w')
 cur.copy_expert(sql,csv_file)
 csv_file.close()
-cur.close
-conn.close
+cur.close()
+conn.close()
