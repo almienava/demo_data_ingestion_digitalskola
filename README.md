@@ -1,2 +1,2 @@
 # demo_data_ingestion_digitalskola
-latihan project di digitalskola
+latihan penggunaan github di digitalskola
